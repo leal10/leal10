@@ -10,7 +10,7 @@ My coding journey began when I first learned Javascript back in 2018 with which 
 *   🖥️  See my portfolio at [danielleal.dev](http://danielleal.dev)
 *   ✉️  You can contact me at [lealdaniel456@gmail.com](mailto:lealdaniel456@gmail.com)
 *   🧠  I'm learning Next.js
-*   🤝  I'm open to collaborating on any project that helps people's life simpler
+*   🤝  I'm open to collaborate on any project that helps make people's life simpler
 *   ⚡  I love to make cool projects with other engineers!
 ### Skills
 <p align="left">

@@ -4,7 +4,7 @@ Hi 👋 My name is Daniel Leal
 Web Developer | Full-Stack
 --------------------------
 
-My coding journey began when I first learned Javascript back in 2018 with which I made a small to do list, and from then I became so hooked that I decided to dive into software development!
+My coding journey began when I first learned Javascript back in 2018 with which I made a small to do list, and from there I became so hooked that I decided to dive into software development!
 
 *   🌍  I'm based in Austin
 *   🖥️  See my portfolio at [danielleal.dev](http://danielleal.dev)
